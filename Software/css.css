@@ -1,0 +1,18 @@
+* {
+    font-family: 'Open Sans', sans-serif
+}
+.messages-box {
+    max-height: 600px
+}
+.messages-title, .message-img {
+    margin: 0 5px
+}
+.message-header {
+    margin-bottom: 5px;
+    width: 100%
+}
+.messages-list li p {
+    border: #e6e7e9 1px solid;
+    padding: 5px 10px;
+    max-width: 60%
+}
